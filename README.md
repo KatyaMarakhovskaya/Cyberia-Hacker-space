@@ -2,7 +2,7 @@
 My first React.js progect
 
 
-![photo](https://github.com/KatyaMarakhovskaya/Floral-Masterclass/blob/master/photo.PNG)
+![photo](https://github.com/KatyaMarakhovskaya/Cyberia-Hacker-space/blob/master/cyberia.bmp)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

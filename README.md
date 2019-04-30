@@ -1,6 +1,10 @@
 ### The website of Hacker-space Cyberia. 
 My first React.js progect
 
+
+![photo](https://github.com/KatyaMarakhovskaya/Floral-Masterclass/blob/master/photo.PNG)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

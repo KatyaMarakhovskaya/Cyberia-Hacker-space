@@ -4,7 +4,7 @@ class About extends Component {
   render() {
     return (
       <div className="About">
-          <div className="cover_about">
+          <div className="cover_about layout">
 
               <div className="img_about ">
               </div>
@@ -16,7 +16,7 @@ class About extends Component {
                 <p>Наша цель - защитить кибермир и сделать его более безопасным.</p>
                 <p>Мы делимся опытом и совершаем ошибки. Придумываем новые проекты и улучшаем старые.</p>
               </div>
-              
+
           </div>
       {/* <img src={process.env.PUBLIC_URL + '/man2.png'  } alt="man" className="about_img"/>
         <div className="about_cover_txt">

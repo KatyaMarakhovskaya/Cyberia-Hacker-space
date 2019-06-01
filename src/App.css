@@ -82,6 +82,7 @@ h2{
 }
 .header_button:hover{
   background: #000;
+  color: #fff;
 }
 
 .cover_about{

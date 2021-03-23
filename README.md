@@ -1,5 +1,5 @@
 ### The website of Hacker-space Cyberia. 
-My first React.js progect
+React.js progect
 
 
 ![photo](https://github.com/KatyaMarakhovskaya/Cyberia-Hacker-space/blob/master/cyberia.bmp)

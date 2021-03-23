@@ -1,5 +1,6 @@
 ### The website of Hacker-space Cyberia. 
 React.js progect
+Web-site is responsive.
 
 
 ![photo](https://github.com/KatyaMarakhovskaya/Cyberia-Hacker-space/blob/master/cyberia.bmp)
